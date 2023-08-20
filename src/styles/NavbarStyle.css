@@ -1,0 +1,24 @@
+.nav-menu{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.nav-menu li{
+    margin: 0px 20px;
+}
+.nav-menu li a{
+    text-decoration: none;
+    color:white;
+}
+.mobilenav-menu{
+    list-style: none;
+}
+.mobilenav-menu li{
+    margin-top: 20px;
+}
+.mobilenav-menu li a{
+    text-decoration: none;
+    font-size: 1.4rem;
+    color:black;
+}
